@@ -5,4 +5,6 @@
  .venv
 
 ### How to initialize/run your application
-pytest 
+To run the test - pytest 
+To run application - pyton series.py
+
